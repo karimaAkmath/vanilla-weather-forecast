@@ -67,8 +67,8 @@ li:first-letter {
 
 /* Applying a new class to the button */
 .custom-primary-btn {
-  background-color: rgb(2, 81, 26);
-  border-color: rgb(2, 81, 26);
+  background-color: rgb(24, 141, 139);
+  border-color: rgb(24, 141, 139);
 }
 
 /* Change the text color for better contrast */
